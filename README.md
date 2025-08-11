@@ -1,2 +1,2 @@
 # arungoyary-demo
-This is my first Repository
+This is my Git first Repository
